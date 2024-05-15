@@ -1,0 +1,1 @@
+this is the info aboout the home page of the website on whcih we are working and we need to tell aboiout its specifications and therfore it needs to be hosted on the Vercel app which is free to use and explain without consuming much of its md usage.
